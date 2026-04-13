@@ -8,17 +8,17 @@ import java.time.LocalDateTime;
 @Data
 public class ApiError {
 
-    private LocalDateTime timestamp;
+    private LocalDateTime timeStamp;
     private String error;
     private HttpStatus statusCode;
 
     public ApiError() {
-        this.timestamp = LocalDateTime.now();
+        this.timeStamp = LocalDateTime.now();
     }
 
-    public ApiError(String error,HttpStatus statusCode) {
+    public ApiError(String error, HttpStatus statusCode) {
         this();
-        this.statusCode = statusCode;
         this.error = error;
+        this.statusCode = statusCode;
     }
 }
