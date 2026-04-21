@@ -6,6 +6,10 @@
       <list>
         <option value="$PROJECT_DIR$/SecurityApplication/pom.xml" />
         <option value="$PROJECT_DIR$/user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ECommerceApplication /discovery-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ECommerceApplication /inventory-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ECommerceApplication /api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/ECommerceApplication /order-service/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
