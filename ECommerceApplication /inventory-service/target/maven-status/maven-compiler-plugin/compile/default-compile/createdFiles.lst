@@ -1,0 +1,11 @@
+com/ecommerce/inventory_service/repository/ProductRepository.class
+com/ecommerce/inventory_service/entity/Product$ProductBuilder.class
+com/ecommerce/inventory_service/entity/Product.class
+com/ecommerce/inventory_service/InventoryServiceApplication.class
+com/ecommerce/inventory_service/service/ProductService.class
+com/ecommerce/inventory_service/config/AppConfig.class
+com/ecommerce/inventory_service/dto/OrderRequestItemDto.class
+com/ecommerce/inventory_service/dto/OrderRequestDto.class
+com/ecommerce/inventory_service/dto/ProductDto.class
+com/ecommerce/inventory_service/clients/OrdersFeignClient.class
+com/ecommerce/inventory_service/controller/ProductController.class

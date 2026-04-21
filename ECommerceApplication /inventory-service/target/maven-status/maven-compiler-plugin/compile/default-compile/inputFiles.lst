@@ -1,0 +1,10 @@
+/Users/itz_saggie/Desktop/Projects/SpringBootPractical/ECommerceApplication /inventory-service/src/main/java/com/eCommerceApp/inventory_service/InventoryServiceApplication.java
+/Users/itz_saggie/Desktop/Projects/SpringBootPractical/ECommerceApplication /inventory-service/src/main/java/com/eCommerceApp/inventory_service/clients/OrdersFeignClient.java
+/Users/itz_saggie/Desktop/Projects/SpringBootPractical/ECommerceApplication /inventory-service/src/main/java/com/eCommerceApp/inventory_service/config/AppConfig.java
+/Users/itz_saggie/Desktop/Projects/SpringBootPractical/ECommerceApplication /inventory-service/src/main/java/com/eCommerceApp/inventory_service/controller/ProductController.java
+/Users/itz_saggie/Desktop/Projects/SpringBootPractical/ECommerceApplication /inventory-service/src/main/java/com/eCommerceApp/inventory_service/dto/OrderRequestDto.java
+/Users/itz_saggie/Desktop/Projects/SpringBootPractical/ECommerceApplication /inventory-service/src/main/java/com/eCommerceApp/inventory_service/dto/OrderRequestItemDto.java
+/Users/itz_saggie/Desktop/Projects/SpringBootPractical/ECommerceApplication /inventory-service/src/main/java/com/eCommerceApp/inventory_service/dto/ProductDto.java
+/Users/itz_saggie/Desktop/Projects/SpringBootPractical/ECommerceApplication /inventory-service/src/main/java/com/eCommerceApp/inventory_service/entity/Product.java
+/Users/itz_saggie/Desktop/Projects/SpringBootPractical/ECommerceApplication /inventory-service/src/main/java/com/eCommerceApp/inventory_service/repository/ProductRepository.java
+/Users/itz_saggie/Desktop/Projects/SpringBootPractical/ECommerceApplication /inventory-service/src/main/java/com/eCommerceApp/inventory_service/service/ProductService.java
